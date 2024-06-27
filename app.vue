@@ -5,5 +5,6 @@
     <div class="bg-emerald-500">
       <NuxtPage />
     </div>
+    <UNotifications />
   </Html>
 </template>
